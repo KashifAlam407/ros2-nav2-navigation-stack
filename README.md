@@ -6,7 +6,15 @@ The robot runs in **Gazebo**, navigation is visualized in **RViz**, and the navi
 
 The project includes robot description, simulation environment, bringup configuration, and a custom navigation package.
 
----
+-----------------------------------------------------------------------
+
+### Video Demonstration
+
+[![ros2_trajectory_control](https://img.youtube.com/vi/y7erTK9Ahqo/0.jpg)](https://www.youtube.com/watch?v=y7erTK9Ahqo)
+
+▶ Click the image above to watch the full demo video on YouTube.
+
+-----------------------------------------------------------------------
 
 # Repository Structure
 
